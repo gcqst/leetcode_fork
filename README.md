@@ -1,8 +1,8 @@
 # LeetCode
 
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]() [![Travis](https://img.shields.io/badge/language-Python-red.svg)]() [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]() [![Travis](https://img.shields.io/badge/language-Go-red.svg)]() [![Travis](https://img.shields.io/badge/language-Php-pink.svg)]() [![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+[![Travis](https://p.ipic.vip/k4pv1r.jpg)]() [![Travis](https://p.ipic.vip/32nfgh.jpg)]() [![Travis](https://p.ipic.vip/4a36ao.jpg)]() [![Travis](https://p.ipic.vip/fd1f82.jpg)]() [![Travis](https://p.ipic.vip/mhz5uy.jpg)]() [![Travis](https://p.ipic.vip/gp1hvz.jpg)]()
 
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/58af98305c497d0067780b3b) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/lu-xiao-13-70) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/519510412/)
+[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://p.ipic.vip/pj4t8y.jpg) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://p.ipic.vip/n9co7k.jpg) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://p.ipic.vip/m7g3to.jpg)
 
 简体中文 | [English](./README.en.md)
 
@@ -14,9 +14,9 @@
 
 我的新书《算法通关之路》出版了。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gu39d1zb7qj622g0u013a02.jpg)
+![](https://p.ipic.vip/zo8cz5.jpg)
 
-- [实体版购书链接 1](https://union-click.jd.com/jdc?e=618|pc|&p=JF8BAOAJK1olXgEGUV9cAE4VCl8IGloXWgYCV1tcAE8TBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0PG1sWWAcKUFpYFxJSXzI4GAhrA0IDUiM-FjFxQQtKWFx2AlkYElJROEonA24JG1MQWgMEUW5tCEwnQgEIGlkdXAQHUW5cOEsQBmkNElwWXgYGUFxtD0seMzRddVwVWFVWB10PXxtDVDo4K2sWbQECXRMcWgYnM284GGtXMwUKAw5VDEpDA2oBGl4SXwELUF5fCkkQVDtdH1JGX1EAZFxcCU8eMw)
+- [实体版购书链接 1](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXwUFU1xcAUoRA18IGFMXXgQDUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFxeCkoTHDZNRwYlQ1J3BB0EWEl0QhkIH1xMBXBlDyQ1TkcbM244G1oUXQ4HU1tbDXsnA2g4STXN67Da8e9B3OGY1uefK1olXQEEUFhYCkgSAWwOHmsSXQ8yDwszD0sSUDtbGAlCDVJVAW5tOEgnBG8BD11nHFQWUixtOEsnAF9KdV5AWQcDB1cPDktEAWpfSwhFXwUDUllVDkMVATxbHVwWbQQDVVpUOHs)
 
 - [实体版购书链接 2](https://union-click.jd.com/jdc?e=618|pc|&p=JF8BAM0JK1olXDYCV1ZfC0kWB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksUC20LGVoRQl9HCANtQDt-RAZPBQFwJ0ZEA1hDWh9wdTB2a1cZbQcyVF9cCEMSBGoOHmslXQEyAjBdCUoWAm4NG14WbQcyVFlYDk4eBG8LG1gUXzYFVFdtUx55BG8NSA9GXlRVBAoKXXsnM2w4HFscEEdQGW5tCHsUMy1mE14WDQcCUVxfWk9EBmkOSQsWDwVSVwpcWEoXUG5aElslXwcDUFdt)
 
@@ -28,13 +28,11 @@
 
 [在线阅读地址](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gm3r7y4dt8j30zx0u0hdt.jpg)
-
 **限时免费下载！后期随时可能收费**
 
 可以去我的公众号《力扣加加》后台回复电子书获取！
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
+<img src="https://p.ipic.vip/h9nm77.jpg" width="100%">
 
 > epub 还是有动图的
 
@@ -43,6 +41,18 @@
 ## 图片加载不出来如何解决？
 
 <https://github.com/fe-lucifer/fanqiang>
+
+## 九章算法班
+
+![](https://p.ipic.vip/iyzbvl.jpg)
+
+九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万 IT 程序员找到高薪 offer! 提供 1 对 1 求职指导、算法指导、前后端项目、简历代笔等服务。
+
+- 推荐刷题网站：[www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-lucifer2022)， 戳此免费领取 7 天[LintCode 超级 Vip](https://www.lintcode.com/vip/activity/zWIMOY)
+
+- 推荐北大 FB 双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-lucifer2022)，有人靠他连拿 3 个大厂 offer
+
+![](https://p.ipic.vip/8a4bul.jpg)
 
 ## :calendar:《91 天学算法》限时活动
 
@@ -54,17 +64,13 @@
 
 [点此参与](https://github.com/azl397985856/leetcode/discussions/532)
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gq0mm4lscqj313h0r0diy.jpg)
-
 - 🔥🔥🔥🔥 [活动首页](https://leetcode-solution.cn/91) 🔥🔥🔥🔥
 - [91 第三期讲义 - 二分专题（上）](./thinkings/binary-search-1.md)
 - [91 第三期讲义 - 二分专题（下）](./thinkings/binary-search-2.md)
 
-## 关于我
+## 1V1 辅导
 
-大家也可以加我微信好友进行交流！
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gx11szd02ej30e80e8dg3.jpg)
+如果大家觉得上面的集体活动效率比较低，我目前也接受 1v1 算法辅导，价格根据你的算法基础以及想要学习的内容而定感兴趣的可以加我微信，备注“算法辅导”，微信号 DevelopeEngineer。
 
 ## :octocat: 仓库介绍
 
@@ -86,7 +92,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 - 这里有一张互联网公司面试中经常考察的问题类型总结的思维导图，我们可以结合图片中的信息分析一下。
 
-![leetcode-zhihu](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluennxvrj30k00jx0te.jpg)
+![leetcode-zhihu](https://p.ipic.vip/a20o3x.jpg)
 
 （图片来自 leetcode)
 
@@ -329,6 +335,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0279. 完全平方数](./problems/279.perfect-squares.md)
 - [0309. 最佳买卖股票时机含冷冻期](./problems/309.best-time-to-buy-and-sell-stock-with-cooldown.md)
 - [0322. 零钱兑换](./problems/322.coin-change.md) 👍
+- [0324. 摆动排序 II](./problems/324.wiggle-sort-ii.md)
 - [0328. 奇偶链表](./problems/328.odd-even-linked-list.md)
 - [0331. 验证二叉树的前序序列化](./problems/331.verify-preorder-serialization-of-a-binary-tree.md)
 - [0334. 递增的三元子序列](./problems/334.increasing-triplet-subsequence.md)
@@ -360,8 +367,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0611. 有效三角形的个数](./problems/611.valid-triangle-number.md) 👍
 - [0673. 最长递增子序列的个数](./problems/673.number-of-longest-increasing-subsequence.md)
 - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
-- [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
+- [0710. 黑名单中的随机数](./problems/710.random-pick-with-blacklist.md)
 - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+- [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
 - [0735. 行星碰撞](./problems/735.asteroid-collision.md) 👍
 - [0754. 到达终点数字](./problems/754.reach-a-number.md)
 - [0785. 判断二分图](./problems/785.is-graph-bipartite.md)
@@ -416,7 +424,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1631. 最小体力消耗路径](./problems/1631.path-with-minimum-effort.md)
 - [1658. 将 x 减到 0 的最小操作数](./problems/1658.minimum-operations-to-reduce-x-to-zero.md)
 - [1697. 检查边长度限制的路径是否存在](./problems/1697.checking-existence-of-edge-length-limited-paths.md)
-- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md)
+- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md) 👍
+- [1770. 执行乘法运算的最大分数](./problems/1770.maximum-score-from-performing-multiplication-operations.md) 👍 91
 - [1834. 单线程 CPU](./problems/1834.single-threaded-cpu.md)
 - [1899. 合并若干三元组以形成目标三元组](./problems/1899.merge-triplets-to-form-target-triplet.md) 👍
 - [1904. 你完成的完整对局数](./problems/1904.the-number-of-full-rounds-you-have-played.md)
@@ -553,17 +562,11 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 
 更多关于 anki 使用方法的请查看 [anki 官网](https://apps.ankiweb.net/)
 
-目前已更新卡片一览（仅列举正面）：
+## 关于我
 
-- 二分法解决问题的关键点是什么，相关问题有哪些？
-- 如何用栈的特点来简化操作， 涉及到的题目有哪些？
-- 双指针问题的思路以及相关题目有哪些？
-- 滑动窗口问题的思路以及相关题目有哪些？
-- 回溯法解题的思路以及相关题目有哪些？
-- 数论解决问题的关键点是什么，相关问题有哪些？
-- 位运算解决问题的关键点是什么，相关问题有哪些？
+大家也可以加我微信好友进行交流！
 
-> 已加入的题目有：#2 #3 #11
+![](https://p.ipic.vip/wciz1n.jpg)
 
 ## :chart_with_upwards_trend: 大事件
 
@@ -574,7 +577,7 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 - 2020-04-12: [项目突破三万 Star](./thanksGiving3.md)。
 - 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：<http://leetcode-solution.cn/>
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
+![](https://p.ipic.vip/98p19b.jpg)
 
 - 2021-02-23: star 破四万
 

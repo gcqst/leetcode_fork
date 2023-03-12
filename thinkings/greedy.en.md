@@ -11,8 +11,8 @@ There are 73 questions on greedy strategies on LeetCode. We will divide it into 
 We have selected three questions to explain. In addition to using the greedy method, you can also try dynamic planning to solve these three questions.
 
 - [45. Jumping Game II](https://leetcode-cn.com/problems/jump-game-ii /), difficult
-- [1024. Video stitching] (https://leetcode-cn.com/problems/video-stitching /), medium
-- [1326. Minimum number of taps for irrigating the garden] (https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden /), difficult
+- [1024. Video stitching](https://leetcode-cn.com/problems/video-stitching /), medium
+- [1326. Minimum number of taps for irrigating the garden](https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden /), difficult
 
 A major feature of the coverage problem, we can abstract it as `a large interval I on a given number axis and n small cells i[0], i[1],. . . , i[n-1], ask how many cells to choose at least, so that the union of these cells can cover the entire large area. `
 
@@ -46,11 +46,11 @@ Here we use the greedy strategy to solve it. That is, every time you choose a po
 
 As shown in the figure below, the starting position is 2, and the range that can be jumped is the orange node. Since 3 can jump farther, enough to cover the situation of 2, it should jump to the position of 3.
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluifqw9sj309i03xq2t.jpg)
+![](https://p.ipic.vip/pgh1f7.jpg)
 
 When we jump to the position of 3. As shown in the figure below, the range that can be jumped is 1, 1, and 4 in orange. Since 4 can jump farther, it jumps to the position of 4.
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluimff8dj30c1039wed.jpg)
+![](https://p.ipic.vip/ccdr3u.jpg)
 
 If you write code, we can use end to represent the current boundary that can be jumped, corresponding to orange 1 in the first picture and orange 4 in the second picture. And when traversing the array, when the boundary is reached, the boundary is updated again.
 
@@ -187,14 +187,14 @@ There is a one-dimensional garden on the x-axis. The length of the garden is n, 
 
 There are a total of n +1 taps in the garden, which are located at [0, 1,. . . , n].
 
-Give you an integer n and an array of integer ranges of length n +1, where ranges[i] (the index starts from 0) means: if you turn on the faucet at point i, the area that can be irrigated is [i-ranges[i], i + ranges[i]].
+Give you an integer n and an array of integer ranges of length n +1, where ranges[i](the index starts from 0) means: if you turn on the faucet at point i, the area that can be irrigated is [i-ranges[i], i + ranges[i]].
 
 Please return the minimum number of taps that can irrigate the entire garden. If there is always a place in the garden that cannot be irrigated, please return to -1.
 
 Example 1：
 ```
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluiubf2gj30bm05xmx4.jpg)
+![](https://p.ipic.vip/w0ltjw.jpg)
 
 ```
 Input: n = 5, ranges = [3,4,1,1,0,0]
@@ -240,9 +240,7 @@ I won't explain much here. Let's take a look at the specific algorithms, and let
 
 algorithm：
 
--Use further[i] to record the rightmost land that can be covered by each tap I. There are a total of n +1 taps, and we traverse n + 1 times.
--Calculate and update the left and right boundaries of the faucet every time [i-ranges[i], i+ ranges[i]] The furthest of the faucet within the range of [i-ranges[i], i+ ranges[i]]
--Finally, start from land 0 and traverse all the way to land n, recording the number of taps, similar to a jumping game.
+-Use further[i] to record the rightmost land that can be covered by each tap I. There are a total of n +1 taps, and we traverse n + 1 times. -Calculate and update the left and right boundaries of the faucet every time [i-ranges[i], i+ ranges[i]] The furthest of the faucet within the range of [i-ranges[i], i+ ranges[i]] -Finally, start from land 0 and traverse all the way to land n, recording the number of taps, similar to a jumping game.
 
 Is it almost exactly the same as the question above?
 
@@ -285,12 +283,12 @@ For extreme-value problems, we can consider using dynamic programming and greedy
 
 The more than 1,000 pages of e-books I organized have been developed and downloaded. You can go to the background of my public account "Force Buckle Plus" to reply to the e-books to get them.
 
-![](https://cdn.jsdelivr.net/gh/azl397985856/cdn/2020-10-17/1602928846461-image.png)
+![](https://p.ipic.vip/ywp3od.png)
 
-![](https://cdn.jsdelivr.net/gh/azl397985856/cdn/2020-10-17/1602928862442-image.png)
+![](https://p.ipic.vip/vngp5k.png)
 
 If you have any comments on this, please leave me a message. I will check the answers one by one when I have time. For more algorithm routines, you can visit my LeetCode problem solving warehouse:https://github.com/azl397985856/leetcode . There are already 37K stars.
 
 You can also pay attention to my public account "Force Buckle Plus" to take you to chew off the hard bone of the algorithm.
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg)
+![](https://p.ipic.vip/yp4ttk.jpg)

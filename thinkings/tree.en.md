@@ -1,6 +1,6 @@
 # I have almost finished brushing all the tree questions of Lixu, and I found these things. 。 。
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkybjfbpubj30uo0u0gqz.jpg)
+![](https://p.ipic.vip/cwv5zz.jpg)
 
 Let's start with the outline of this article. This is a brain map drawn by me with mindmap. After that, I will continue to improve it and gradually improve other topics.
 
@@ -14,17 +14,17 @@ This series contains the following topics：
 
 First light up the protagonist of this article-tree (my makeup technique is okay ^\_^)：
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkyz162e1ij30lu0ssdhm.jpg)
+![](https://p.ipic.vip/5lkkd6.jpg)
 
-[Tree Tag] (https://leetcode-cn.com/tag/tree /"Tree tag") There are a total of 175 questions in leetcode. In order to prepare for this topic, I spent a few days brushing almost all the tree topics of leetcode.
+[Tree Tag](https://leetcode-cn.com/tag/tree /"Tree tag") There are a total of 175 questions in leetcode. In order to prepare for this topic, I spent a few days brushing almost all the tree topics of leetcode.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkpkbu92m2j30u00vg0xu.jpg)
+![](https://p.ipic.vip/bdo0jv.jpg)
 
 Except for 35 locked ones, 1 question that cannot be done (1628 questions, I don't know why I can't do it), and 4 questions that are labeled with trees but are pictures. I have brushed all the others. By focusing on these questions, I found some interesting information, and I will share it with you today.
 
 ## Edible Guide
 
-Hello everyone, this is lucifer. What I bring to you today is the topic "Tree". In addition, in order to keep the focus and practicality of the chapters, some content is omitted, such as Huffman trees, prefix trees, balanced binary trees (red and black trees, etc.), and binary piles. These contents are relatively not that practical. If you are also interested in these contents, you can pay attention to my warehouse [leetcode algorithm problem solving] (https://github.com/azl397985856/leetcode "leetcode algorithm problem solving"), if you have any content you want to see, you can also leave a message to tell me~
+Hello everyone, this is lucifer. What I bring to you today is the topic "Tree". In addition, in order to keep the focus and practicality of the chapters, some content is omitted, such as Huffman trees, prefix trees, balanced binary trees (red and black trees, etc.), and binary piles. These contents are relatively not that practical. If you are also interested in these contents, you can pay attention to my warehouse [leetcode algorithm problem solving](https://github.com/azl397985856/leetcode "leetcode algorithm problem solving"), if you have any content you want to see, you can also leave a message to tell me~
 
 In addition, it is important to inform everyone in advance that many of the contents of this article depend on recursion. Regarding the recursion exercise, I recommend that you draw the recursion process on paper and manually substitute it several times. After the brain is familiar with recursion, it doesn't have to work so hard. Students who are really too lazy to draw pictures can also find a visual recursion website, such as https://recursion.now.sh /. After you have a certain understanding of recursion, take a closer look at the various traversal methods of the tree, then finish reading this article, and finally do the topic at the end of the article. It's not a big problem to fix recursion.
 
@@ -36,11 +36,11 @@ Finally, it should be emphasized that this article is only a common routine to h
 
 When it comes to trees, everyone is more familiar with the trees in reality, and the trees in reality are like this：
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkydk0w4uoj31750u0amg.jpg)
+![](https://p.ipic.vip/4vw7kq.jpg)
 
 The tree in the computer is actually the reflection of the tree in reality.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkydoh5we8j31bl0u0kjn.jpg)
+![](https://p.ipic.vip/w7a1lt.jpg)
 
 The data structure of a computer is an abstraction of the relationship between objects in the real world. For example, the family tree of the family, the organizational relationship of the personnel in the company structure, the folder structure in the computer, the dom structure of the html rendering, etc., These hierarchical structures are called trees in the computer field.
 
@@ -62,17 +62,17 @@ Obviously, its input parameters and return values are not trees, but they do not
 
 Continue to go back to the above code, according to the above code, you can draw the following recursive tree.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkqv37r0x4j30f90iot9s.jpg)
+![](https://p.ipic.vip/ikc4cu.jpg)
 
 Where the edges of the tree represent the return value, and the tree nodes represent the values that need to be calculated, namely fn(n).
 
 Taking the calculation of 5's fibbonacci as an example, the process is probably like this (animated demonstration)：
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkqvazbxs8g30gi0my4qp.gif)
+![](https://p.ipic.vip/y5iown.gif)
 
 **This is actually the subsequent traversal of a tree. **, do you think the tree (logical tree) is very important? We will talk about the post-sequence traversal later, now everyone knows that this is the case.
 
-You can also go to [this website] (https://recursion.now.sh / "Recursive Visualization Website") View the single-step execution effect of the above algorithm. Of course, there are more animated demonstrations of algorithms on this website.
+You can also go to [this website](https://recursion.now.sh / "Recursive Visualization Website") View the single-step execution effect of the above algorithm. Of course, there are more animated demonstrations of algorithms on this website.
 
 > The arrow directions in the figure above are for your convenience. In fact, the direction of the arrow becomes downward, which is the real tree structure.
 
@@ -86,7 +86,7 @@ A generalized tree is really useful, but its scope is too large. The topic of tr
 
 A tree is a non-linear data structure. The basic unit of tree structure is the node. The link between nodes is called a branch. Nodes and branches form a tree, and the beginning of the structure is called the root, or root node. Nodes other than the root node are called child nodes. Nodes that are not linked to other child nodes are called leaf nodes (leaf). The figure below is a typical tree structure：
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfjv3xmkknj30jb0cymxw.jpg)
+![](https://p.ipic.vip/abgn4d.jpg)
 
 Each node can be represented by the following data structure：
 
@@ -195,7 +195,7 @@ It can be seen that in the implementation, White represents the first entry proc
 
 If you want to implement preorder and postorder traversal, you only need to adjust the stacking order of the left and right child nodes, and there is no need to make any changes to the other parts.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkq01o7423j31gg0u0dwg.jpg) (You only need to adjust the position of these three sentences to traverse the front, middle and back sequence)
+![](https://p.ipic.vip/o9d4m4.jpg) (You only need to adjust the position of these three sentences to traverse the front, middle and back sequence)
 
 > Note: The preface and preface of this schematic diagram are reversed
 
@@ -205,7 +205,7 @@ Some students may say that every node here will enter and exit the stack twice, 
 
 > Morris traversal is an algorithm that can complete the traversal of a tree with a constant spatial complexity.
 
-I think that in most cases, people don't need to pay too much attention to such small differences. In addition, if this traversal method is fully mastered, it is not difficult to write an iteration into the stack based on the idea of recursion. It's nothing more than entering the stack when the function is called, and exiting the stack when the function returns. For more information about binary tree traversal, you can also visit the topic I wrote earlier ["Binary tree Traversal"] (https://github.com/azl397985856/leetcode/blob/master/thinkings/binary-tree-traversal.md "Traversal of binary trees").
+I think that in most cases, people don't need to pay too much attention to such small differences. In addition, if this traversal method is fully mastered, it is not difficult to write an iteration into the stack based on the idea of recursion. It's nothing more than entering the stack when the function is called, and exiting the stack when the function returns. For more information about binary tree traversal, you can also visit the topic I wrote earlier ["Binary tree Traversal"](https://github.com/azl397985856/leetcode/blob/master/thinkings/binary-tree-traversal.md "Traversal of binary trees").
 
 ### Summary
 
@@ -225,7 +225,7 @@ While BFS is suitable for seeking the shortest distance, this is not the same as
 
 Hierarchical traversal is to traverse the tree layer by layer and access it in the hierarchical order of the tree.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkye7nyrjaj30yw0ec762.jpg) (Hierarchical traversal diagram)
+![](https://p.ipic.vip/7n2sg5.jpg) (Hierarchical traversal diagram)
 
 \*\*The core of BFS is that it can be terminated early when the shortest time is required. This is its core value. Hierarchical traversal is a byproduct of BFS that does not require early termination. This early termination is different from the early termination of DFS pruning, but the early termination of finding the nearest target. For example, if I want to find the nearest target node, BFS can return directly after finding the target node. And DFS has to exhaustively list all possibilities to find the nearest one, which is the core value of BFS. In fact, we can also use DFS to achieve the effect of hierarchical traversal. With the help of recursion, the code will be even simpler.
 
@@ -243,7 +243,7 @@ As of now (2020-02-21), there are 129 questions in the LeetCode for depth-first 
 
 DFS illustration：
 
-![binary-tree-traversal-dfs](https://tva1.sinaimg.cn/large/007S8ZIlly1ghlui7vcmwg30dw0dw3yl.gif)
+![binary-tree-traversal-dfs](https://p.ipic.vip/7zo12v.gif)
 
 (Picture from https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/tree/depth-first-search )
 
@@ -278,7 +278,7 @@ dfs(j)
 }
 ```
 
-The visited above is to prevent endless loops caused by the presence of rings. And we know that trees do not have rings, so most of the topics of the tree do not need to be visited, unless you modify the structure of the tree, for example, the left pointer of the left subtree points to itself, and there will be a ring at this time. Another example is [138. Copy the linked list with random pointers] (https://leetcode-cn.com/problems/copy-list-with-random-pointer /) This question needs to record the nodes that have been copied. There are very few questions for trees that need to record visited information.
+The visited above is to prevent endless loops caused by the presence of rings. And we know that trees do not have rings, so most of the topics of the tree do not need to be visited, unless you modify the structure of the tree, for example, the left pointer of the left subtree points to itself, and there will be a ring at this time. Another example is [138. Copy the linked list with random pointers](https://leetcode-cn.com/problems/copy-list-with-random-pointer /) This question needs to record the nodes that have been copied. There are very few questions for trees that need to record visited information.
 
 Therefore, the DFS of a tree is more：
 

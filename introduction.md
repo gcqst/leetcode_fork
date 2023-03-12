@@ -10,13 +10,13 @@
 
 我的新书《算法通关之路》出版了。这本书和本仓库内容几乎没有任何重叠，采用 Python 编写，不过也提供了 Java，CPP 以及 JS 代码供大家参考。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gu39d1zb7qj622g0u013a02.jpg)
+![](https://p.ipic.vip/l9sxsa.jpg)
 
 [图书介绍](https://mp.weixin.qq.com/s?__biz=MzI4MzUxNjI3OA==&mid=2247489484&idx=1&sn=a16664605744a970f8a81e64affb01a7&chksm=eb88dbd5dcff52c3ecee38c7f594df6d16ed7ca2852ad4d0d86bab99483f4413c30e98b00e43&token=715489125&lang=zh_CN#rd)
 
 大家也可以扫描下方二维码购买。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gu3sf6szzij60dw0i2aax02.jpg)
+![](https://p.ipic.vip/ny26q0.jpg)
 
 ## 电子书
 
@@ -24,13 +24,13 @@
 
 这是我将我的所有公开的算法资料整理的一个电子书，全部题目信息中文化，以前会有一些英文描述，感谢 @CYL 的中文整理。
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gm3r7y4dt8j30zx0u0hdt.jpg)
+![](https://p.ipic.vip/1nxfdk.jpg)
 
 **限时免费下载！后期随时可能收费**
 
 有些动图，在做成电子书（比如 pdf）的时候自然就变没了，如果需要看动图的， 可以去我的公众号《力扣加加》或者我的 leetcode 题解仓库看。
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
+<img src="https://p.ipic.vip/h9nm77.jpg" width="100%">
 
 > epub 还是有动图的
 
@@ -74,7 +74,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 对于最近更新的部分， 后面会有 🖊 标注
 - 这里有一张互联网公司面试中经常考察的问题类型总结的思维导图，我们可以结合图片中的信息分析一下。
 
-![leetcode-zhihu](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluennxvrj30k00jx0te.jpg)
+![leetcode-zhihu](https://p.ipic.vip/pe0egq.jpg)
 
 （图片来自 leetcode)
 
@@ -544,7 +544,7 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 - 2020-04-12: [项目突破三万 Star](./thanksGiving3.md)。
 - 2020-04-14//leetcode-solution.cn/
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
+![](https://p.ipic.vip/pq92y4.jpg)
 
 - 2021-02-23: star 破四万
 

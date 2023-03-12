@@ -1,6 +1,6 @@
 # Backtracking
 
-Backtracking is a technique in DFS. The backtracking method adopts [trial and error] (https://zh.wikipedia.org/wiki/%E8%AF%95%E9%94%99 ) The thought, it tries to solve a problem step by step. In the process of step-by-step problem solving, when it finds that the existing step-by-step answers cannot be effectively answered correctly by trying, it will cancel the previous step or even the calculation of the previous few steps, and then try again to find the answer to the question through other possible step-by-step answers.
+Backtracking is a technique in DFS. The backtracking method adopts [trial and error](https://zh.wikipedia.org/wiki/%E8%AF%95%E9%94%99) The thought, it tries to solve a problem step by step. In the process of step-by-step problem solving, when it finds that the existing step-by-step answers cannot be effectively answered correctly by trying, it will cancel the previous step or even the calculation of the previous few steps, and then try again to find the answer to the question through other possible step-by-step answers.
 
 In layman's terms, backtracking is an algorithm that turns back if you can't get there.
 
@@ -10,21 +10,21 @@ The backtracking method can be abstract as a tree structure, and it is a tree of
 
 Take a subset of the array [1,2,3] as an example：
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkau6ustfdj30v80igtag.jpg)
+![](https://p.ipic.vip/g9vawf.jpg)
 
 > The for loop is used to enumerate the division points. In fact, the interval dp division interval is a similar approach.
 
 As shown in the figure above, we will perform the operation of adding to the result set at each node.
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkau9jceowj30uj0jrdhv.jpg)
+![](https://p.ipic.vip/1flyhe.jpg)
 
 For the gray nodes above, adding the result set is [1].
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkauahh57bj30tj0j0wgg.jpg)
+![](https://p.ipic.vip/mj1skc.jpg)
 
 The result set of this addition is [1,2].
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkaub4scgij30uu0io40h.jpg)
+![](https://p.ipic.vip/y9t2mb.jpg)
 
 The result set of this addition is [2,3], and so on. There are six subsets in total, namely [1], [1,2], [1,2,3], [2], [2,3] And [3].
 
@@ -67,7 +67,7 @@ Another test point for backtracking questions is pruning. By pruning properly, t
 
 The skills of pruning in each question are different, but a simple principle is to avoid recursion that cannot be the answer at all.
 
-For example: [842. Split the array into a Fibonacci sequence] (https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence /)
+For example: [842. Split the array into a Fibonacci sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence /)
 
 Title description：
 
@@ -155,7 +155,7 @@ return backtrack(0, [])
 
 The pruning process is graphically represented like this：
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1glgcy6vcb5j30qb0bjabb.jpg)
+![](https://p.ipic.vip/bjh1zs.jpg)
 
 **Pruning algorithm is a major test point for backtracking, everyone must be able to master it. **
 
@@ -167,7 +167,7 @@ Reference title：
 
 - [140. Word Split II](https://github.com/azl397985856/leetcode/blob/master/problems/140.word-break-ii.md)
 - [401. Binary watch](../problems/401.binary-watch.md)
-- [816. Fuzzy coordinates] (https://github.com/azl397985856/leetcode/blob/master/problems/816.ambiguous-coordinates.md )
+- [816. Fuzzy coordinates](https://github.com/azl397985856/leetcode/blob/master/problems/816.ambiguous-coordinates.md)
 
 This kind of problem is different from subsets and permutations. The combination is regular. We can use the Cartesian product formula to combine two or more subsets.
 
